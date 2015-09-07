@@ -1,2 +1,1 @@
-# newMemberForm
-Easy way for others to sign up new members at denahc
+#A simple web based form for new members to use when signing up for denhac
